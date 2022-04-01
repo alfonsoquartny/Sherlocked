@@ -741,16 +741,11 @@ ModelImporter:
       position: {x: -0.022925965, y: -0.013236314, z: 0.013236314}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: Violin (4)
+    - name: violinbowSAMEmaterial
       parentName: LeftHand
-      position: {x: -0.129, y: -0.816, z: 0.107}
-      rotation: {x: 0.000012524517, y: -0.99535877, z: 0.00012954212, w: -0.09623424}
-      scale: {x: 0.28233236, y: 0.30833519, z: 0.28233236}
-    - name: default
-      parentName: Violin (4)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
+      position: {x: -0.483, y: -0.282, z: 0.823}
+      rotation: {x: 0.21810818, y: -0.59493047, z: 0.6648409, w: -0.39556688}
+      scale: {x: 0.006600002, y: 0.0066000014, z: 0.0065999995}
     - name: Neck
       parentName: Spine2
       position: {x: 6.9922306e-14, y: 0.13877401, z: -0.043541998}
